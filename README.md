@@ -9,4 +9,10 @@ Installation:
       pip install PIL
   - Additional information on installing pygame can be found here: https://www.pygame.org/wiki/GettingStarted
   
+Use:
+  - Note that this game was solely created to test out different pathfinding algorithms. 
+  - The overall goal was to provide evidence that incomplete real-time pathfinding algorithms can perform more efficiently and to        the same degree of accuracy as complete algorithms when tuned correctly to a finite state-space.
+  - The algorithms used in the small project are Breadth First Search, A*, and Context Dependent Subgoaling A*.
+  - The full project report that include results of comparing our different pathfinding algorithms can be found in the file called      "Full-Project-Report.pdf"
+
 
